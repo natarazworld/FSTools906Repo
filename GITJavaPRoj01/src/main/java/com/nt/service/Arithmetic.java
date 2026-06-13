@@ -14,5 +14,7 @@ public class Arithmetic {
 		System.out.println("Arithmetic.mul()");
 		return x*y;
 	}
+	
+	
 
 }
