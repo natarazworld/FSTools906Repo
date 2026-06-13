@@ -43,11 +43,11 @@
     </dependency>
     
     
-    <!-- Source: https://mvnrepository.com/artifact/org.springframework/spring-context-support -->
+    <!-- Source: https://mvnrepository.com/artifact/org.springframework/spring-context-support  -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context-support</artifactId>
-    <version>7.0.8</version>
+    <version>7.0.7</version>
     <scope>compile</scope>
 </dependency>
     
