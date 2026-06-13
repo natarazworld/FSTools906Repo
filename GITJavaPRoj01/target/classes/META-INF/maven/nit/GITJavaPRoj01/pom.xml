@@ -35,11 +35,23 @@
       <scope>test</scope>
     </dependency>
     <!-- Optionally: parameterized tests support -->
+    
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-params</artifactId>
       <scope>test</scope>
     </dependency>
+    
+    
+    <!-- Source: https://mvnrepository.com/artifact/org.springframework/spring-context-support -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context-support</artifactId>
+    <version>7.0.8</version>
+    <scope>compile</scope>
+</dependency>
+    
+    
   </dependencies>
 
   <build>
