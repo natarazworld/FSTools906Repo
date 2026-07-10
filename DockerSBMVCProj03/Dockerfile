@@ -1,4 +1,4 @@
 FROM   eclipse-temurin:17-jdk
 WORKDIR  /app1
-COPY  target/*.jar    /app1
-CMD ["java","-jar","DockerWebApp.jar"]
+COPY  target/*.jar    App1.jar
+CMD ["java","-jar","App1.jar"]
