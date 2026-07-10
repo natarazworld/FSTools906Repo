@@ -11,7 +11,7 @@
 	<groupId>nit</groupId>
 	<artifactId>DockerSBMVCProj03</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>DockerSBMVCProj03</name>
 	<description/>
 	<url/>
