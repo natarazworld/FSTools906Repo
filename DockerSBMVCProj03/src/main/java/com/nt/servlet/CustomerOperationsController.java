@@ -9,6 +9,8 @@ public class CustomerOperationsController {
 
 	@GetMapping("/")
 	public  String showHomePage() {
+		System.out.println("CustomerOperationsController.showHomePage()");
+		
 		return "welcome";
 	}
 }
